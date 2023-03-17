@@ -1,0 +1,13 @@
+.rowdone {
+  text-decoration: line-through;
+  color: rgb(92, 92, 92);
+  font-style: italic;
+  margin-bottom: 10px;
+  background-color: rgb(243, 243, 243);
+}
+
+.row {
+  color: black;
+  margin-bottom: 10px;
+  background-color: white;
+}
